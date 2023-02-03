@@ -17,8 +17,11 @@
 사용자가 사진을 올리면 만화 화풍으로 변경해주거나 합성하고 싶은 배경의 사진을 올린다면 배경을 합성해주는 웹사이트 입니다.
 갤러리를 통해 변환된 사진 결과를 한 눈에 볼 수 있습니다.
 # Demo
-
-( insert demo After )
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/93627156/216542160-cb9a9634-15c0-47a8-97da-9d2123fd395b.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93627156/216540699-98313ad4-91cd-4d3d-bda3-f7c526a65385.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93627156/216540894-764073de-4878-455f-a270-1424bdb5a53c.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/93627156/216541109-b93c8a0a-7478-4fee-9391-db9b4a71c3a0.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/93627156/216541210-37679aeb-056a-4314-8f90-0d90eac7ea82.gif)
 
 # System Architecture
 
